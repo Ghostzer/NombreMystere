@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MysteryNumber</string>
+    <string name="strBravo">Congrat ! You win in %d hits , restart ?</string>
+    <string name="strMoins">Please enter a lower value</string>
+    <string name="strPlus">Please enter a bigger value</string>
+    <string name="strWin">You win !</string>
+    <string name="strYes">Yes</string>
+    <string name="strNo">No</string>
+    <string name="strLost">You lost ! You have used your 10 tries ! Restart ?</string>
+    <string name="strTitleLost">You lost !</string>
+    <string name="lblPhrase">Find the number between 1 and 100 :</string>
+    <string name="btnQuitter">Exit</string>
+</resources>

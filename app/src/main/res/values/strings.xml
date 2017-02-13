@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NombreMystere</string>
+    <string name="strPlus">Veuillez saisir une valeur plus grande !</string>
+    <string name="strMoins">Veuillez saisir une valeur plus petite !</string>
+    <string name="strBravo">Bravo ! Vous avez gagné en %d coups, rejouer ?</string>
+    <string name="strWin">Gagné !</string>
+    <string name="strYes">Oui</string>
+    <string name="strNo">Non</string>
+    <string name="strLost">Perdu ! Vous avez utilisé vos 10 essais ! Voulez-vous rejouer ?</string>
+    <string name="strTitleLost">Perdu !</string>
+    <string name="lblPhrase">Saisir une valeur entre 1 et 100 :</string>
+    <string name="btnQuitter">Quitter</string>
+</resources>
